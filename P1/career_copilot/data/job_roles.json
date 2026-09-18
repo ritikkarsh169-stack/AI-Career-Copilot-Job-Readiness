@@ -1,0 +1,210 @@
+{
+  "Python Developer": {
+    "required_skills": [
+      "Python", "OOP", "Git", "REST APIs", "SQL", "Unit Testing", "Data Structures"
+    ],
+    "roadmap": [
+      "Learn Python basics (variables, loops, functions)",
+      "Understand OOP (classes, inheritance, encapsulation)",
+      "Practice with Git and GitHub",
+      "Build simple REST APIs with Flask or FastAPI",
+      "Learn SQL basics (SELECT, INSERT, JOIN)",
+      "Write unit tests with pytest",
+      "Study data structures (lists, dicts, sets, stacks)"
+    ],
+    "interview_questions": [
+      "What are Python's key data types?",
+      "Explain the difference between a list and a tuple.",
+      "What is OOP and what are its four principles?",
+      "How do you handle exceptions in Python?",
+      "What is a decorator in Python?",
+      "Explain the difference between '==' and 'is'.",
+      "What is a virtual environment and why use one?",
+      "How does Python's garbage collection work?",
+      "What is a REST API and how do you call one?",
+      "How do you write a unit test in Python?"
+    ]
+  },
+  "Data Scientist": {
+    "required_skills": [
+      "Python", "Statistics", "Pandas", "NumPy", "Data Visualization", "Machine Learning", "SQL"
+    ],
+    "roadmap": [
+      "Master Python fundamentals",
+      "Learn statistics (mean, median, variance, distributions)",
+      "Practice data manipulation with Pandas and NumPy",
+      "Create visualizations with Matplotlib or Seaborn",
+      "Understand machine learning basics (regression, classification)",
+      "Work with real datasets on Kaggle",
+      "Learn SQL for data querying"
+    ],
+    "interview_questions": [
+      "What is the difference between supervised and unsupervised learning?",
+      "Explain overfitting and how to prevent it.",
+      "What is a confusion matrix?",
+      "How do you handle missing data in a dataset?",
+      "What is the Central Limit Theorem?",
+      "Explain the bias-variance tradeoff.",
+      "What is feature engineering?",
+      "How does linear regression work?",
+      "What is cross-validation?",
+      "How do you choose the right machine learning algorithm?"
+    ]
+  },
+  "Web Developer": {
+    "required_skills": [
+      "HTML", "CSS", "JavaScript", "React or Vue", "REST APIs", "Git", "Responsive Design"
+    ],
+    "roadmap": [
+      "Learn HTML structure and semantic tags",
+      "Style pages with CSS (Flexbox, Grid)",
+      "Learn JavaScript fundamentals",
+      "Pick a framework: React or Vue",
+      "Consume REST APIs with fetch or axios",
+      "Use Git for version control",
+      "Make responsive designs for mobile"
+    ],
+    "interview_questions": [
+      "What is the difference between HTML and HTML5?",
+      "Explain the CSS box model.",
+      "What is the DOM?",
+      "What is the difference between 'let', 'const', and 'var'?",
+      "Explain how promises work in JavaScript.",
+      "What is a REST API?",
+      "What is responsive design?",
+      "How does React's virtual DOM work?",
+      "What are CSS media queries?",
+      "What is the difference between GET and POST requests?"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "required_skills": [
+      "Python", "Machine Learning", "Deep Learning", "TensorFlow or PyTorch", "Statistics", "SQL", "Docker"
+    ],
+    "roadmap": [
+      "Strengthen Python and NumPy skills",
+      "Study statistics and linear algebra",
+      "Learn classical ML algorithms",
+      "Practice with scikit-learn",
+      "Study neural networks and deep learning",
+      "Learn TensorFlow or PyTorch",
+      "Containerize models with Docker"
+    ],
+    "interview_questions": [
+      "What is gradient descent?",
+      "Explain the difference between a neural network and a decision tree.",
+      "What is backpropagation?",
+      "How do you prevent overfitting in a deep learning model?",
+      "What is a convolutional neural network (CNN)?",
+      "What is transfer learning?",
+      "How do you evaluate a classification model?",
+      "What is the vanishing gradient problem?",
+      "What is regularization?",
+      "Explain the difference between batch and stochastic gradient descent."
+    ]
+  },
+  "DevOps Engineer": {
+    "required_skills": [
+      "Linux", "Docker", "Kubernetes", "CI/CD", "Git", "Cloud (AWS/GCP/Azure)", "Scripting"
+    ],
+    "roadmap": [
+      "Learn Linux command line basics",
+      "Understand networking fundamentals",
+      "Use Git for version control",
+      "Learn Docker (containers, images, compose)",
+      "Explore Kubernetes for orchestration",
+      "Set up a CI/CD pipeline (GitHub Actions)",
+      "Get familiar with a cloud provider"
+    ],
+    "interview_questions": [
+      "What is Docker and why is it used?",
+      "What is the difference between a container and a virtual machine?",
+      "What is CI/CD?",
+      "Explain the concept of Infrastructure as Code.",
+      "What is Kubernetes and what problem does it solve?",
+      "How does a load balancer work?",
+      "What is a Dockerfile?",
+      "What is Git branching strategy?",
+      "What is a reverse proxy?",
+      "How do you monitor a production application?"
+    ]
+  },
+  "Mobile App Developer": {
+    "required_skills": [
+      "React Native or Flutter", "JavaScript or Dart", "REST APIs", "Git", "Mobile UI Design", "State Management"
+    ],
+    "roadmap": [
+      "Learn JavaScript or Dart basics",
+      "Pick a framework: React Native or Flutter",
+      "Build simple UI components",
+      "Manage state (Redux or Provider)",
+      "Connect to REST APIs",
+      "Handle device permissions and navigation",
+      "Publish a demo app"
+    ],
+    "interview_questions": [
+      "What is React Native?",
+      "What is the difference between native and cross-platform development?",
+      "What is state management and why is it important?",
+      "How do you handle navigation in a mobile app?",
+      "What is Flutter and how does it differ from React Native?",
+      "How do you consume a REST API in a mobile app?",
+      "What is hot reload?",
+      "How do you handle different screen sizes in mobile development?",
+      "What are push notifications?",
+      "How do you store data locally on a mobile device?"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "required_skills": [
+      "Networking", "Linux", "Python", "Ethical Hacking", "Firewalls", "SIEM Tools", "Cryptography"
+    ],
+    "roadmap": [
+      "Learn networking fundamentals (TCP/IP, DNS, HTTP)",
+      "Get comfortable with Linux",
+      "Learn scripting with Python or Bash",
+      "Study common attack types (SQL injection, XSS, phishing)",
+      "Practice with ethical hacking tools (Kali Linux, Nmap)",
+      "Understand firewalls and intrusion detection",
+      "Study cryptography basics"
+    ],
+    "interview_questions": [
+      "What is the CIA triad?",
+      "What is the difference between symmetric and asymmetric encryption?",
+      "What is SQL injection?",
+      "How does a firewall work?",
+      "What is a man-in-the-middle attack?",
+      "What is penetration testing?",
+      "What is two-factor authentication?",
+      "What is a SIEM tool?",
+      "How do you respond to a security incident?",
+      "What is the difference between IDS and IPS?"
+    ]
+  },
+  "Cloud Engineer": {
+    "required_skills": [
+      "Cloud (AWS/GCP/Azure)", "Linux", "Networking", "Docker", "Terraform", "CI/CD", "Python"
+    ],
+    "roadmap": [
+      "Learn cloud fundamentals (IaaS, PaaS, SaaS)",
+      "Get familiar with AWS, GCP, or Azure basics",
+      "Study Linux and networking",
+      "Learn Docker and containers",
+      "Use Terraform for Infrastructure as Code",
+      "Set up cloud storage, compute, and databases",
+      "Automate deployments with CI/CD"
+    ],
+    "interview_questions": [
+      "What is cloud computing?",
+      "What is the difference between IaaS, PaaS, and SaaS?",
+      "What is an S3 bucket?",
+      "What is auto-scaling?",
+      "What is a VPC?",
+      "How does IAM work in AWS?",
+      "What is serverless computing?",
+      "What is Terraform?",
+      "How do you secure cloud resources?",
+      "What is the difference between horizontal and vertical scaling?"
+    ]
+  }
+}
